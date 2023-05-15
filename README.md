@@ -24,3 +24,6 @@ Performance Observations & Hypertuning
 Comparisons of different algorithms and approaches
 Model Inference Pipeline
 
+
+Dataset:
+https://www.kaggle.com/competitions/otto-recommender-system/data
