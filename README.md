@@ -1,6 +1,9 @@
 # CMPE257_finalProject
 CMPE 257 final project
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 Project Description: 
 Online shoppers have access to millions of products from large retailers, which can be overwhelming and lead to empty shopping carts. 
 Recommender systems help guide shoppers towards products that match their interests and motivations, improving the shopping experience. 
