@@ -1,7 +1,7 @@
 # CMPE257_finalProject
 CMPE 257 final project
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/coolcoder03/CMPE257_finalProject/blob/main/image/Screenshot%20from%202023-05-14%2022-01-07.png))
+![alt text](https://github.com/coolcoder03/CMPE257_finalProject/blob/main/image/Screenshot%20from%202023-05-14%2022-01-07.png)
 
 
 Project Description: 
